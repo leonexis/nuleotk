@@ -1,0 +1,6 @@
+*~
+toolchains/gcc-arm-none-eabi*
+/.project
+devices/lm4f120h5qr/lm4tools
+devices/lm4f120h5qr/stellarisware
+
